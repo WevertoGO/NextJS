@@ -1,0 +1,14 @@
+____conectando seu Git ao GitHub
+co as credenciais____
+
+git config --global user.name "name..."
+git config --global user.email "email..."
+
+git init
+git status
+git add .
+git commit -m "comentários"
+git remote add origin http...(endereço remositório)
+git push
+
+                     
