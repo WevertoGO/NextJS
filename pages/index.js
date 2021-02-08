@@ -1,7 +1,7 @@
-import DefaultComponent from "../components/DefaultComponent";
+import Home from "../components/Home";
 
 const Index = () => {
-  return <DefaultComponent />;
+  return <Home />;
 };
 
 export default Index;
